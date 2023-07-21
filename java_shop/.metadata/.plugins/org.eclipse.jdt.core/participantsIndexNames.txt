@@ -1,7 +1,0 @@
-INDEX VERSION 1.132
-D:\학생방\김도희\07월\0718_자바기반_리액트_포트폴리오_마켓컬리_로그인구현하기_게시판_CRUD\java_shop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1759692183.index
-\kurly\src\main\java
-D:\배포\0720_자바기반_리액트_포트폴리오_배포\java_shop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1759692183.index
-\kurly\src\main\java
-D:\학생방\김도희\07월\0719_자바기반_리액트_포트폴리오_마켓컬리_JAVA_깃허브_카페24_배포\java_shop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1759692183.index
-\kurly\src\main\java
